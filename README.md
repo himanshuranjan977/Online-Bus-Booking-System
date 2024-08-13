@@ -2,8 +2,8 @@
 
 ## **Table of Contents**
 
-- [**Table of Contents**](#table-of-contents)
 - [**Description**](#description)
+- [**How to setup this project**](#How-to-setup-this-project).
 - [**Usage**](#usage)
 - [**Technologies Used**](#technologies-used)
 - [**Preview**](#preview)
@@ -13,17 +13,30 @@
 - [The site is live <a href="https://himanshuranjan977.github.io/Car-Race/" target="_blank">here</a>]
 ## **Description**
 
-This project was created as a learning experience of Python.
+1. **User-Friendly Search and Filters**: Easily search and compare buses by origin, destination, date, and preferences like amenities and price.
 
-Using Pygame I created a 2D basic race car game, where the user needs to avoid collision with the other car.
+2. **Interactive Seat Selection**: Choose and reserve preferred seats using a visual seating chart.
 
+3. **Instant Booking and Digital Tickets**: Get real-time booking confirmations and receive digital tickets via email or SMS.
+
+4. **Multiple Payment Options**: Pay securely using various methods, including cards, mobile wallets, and online banking.
+
+5. **Profile Management and Support**: Create profiles to manage bookings, view history, and access customer support features like chatbots and FAQs.
 ## **Usage**
 
-Install Python https://www.python.org/downloads/ (only for users that do not have it yet)
+1. **Convenient Booking**: Users can book bus tickets from anywhere, anytime, without the need to visit a physical ticket counter.
+
+2. **Real-Time Seat Availability**: Provides real-time information on seat availability, allowing users to choose their preferred seats.
+
+3. **Secure Payment Options**: Offers multiple secure payment methods, making transactions safe and easy for users.
+
+4. **Trip Management**: Users can easily manage their bookings, including options to modify, cancel, or reschedule trips.
+
+5. **Access to Reviews and Ratings**: Provides access to user reviews and ratings of bus operators, helping customers make informed decisions.
 
 
 
-#### How to setup this project
+## **How to setup this project**
 ```
 Step 1st. Download xampp
 ```
@@ -51,29 +64,21 @@ Step 8th. Import busbooking_ezfare.sql file given inside the zip package in SQL 
 ```
 Step 9th. Run the script http://localhost/ busbooking_ezfare 
 ```
-
-#### To start playing:
-
-* To  move your car sideways press the left or right arrows, or use "a" for left and "d" for right.
-* The speed will increase and you will level up.
-* The game will end when the opponent car collides with you car.
-* You can see your results in the console. 
-
 ## **Technologies Used**
 
-* Language Used:      PHP
+* **Language Used**:      PHP
 
-* Database Used:      My SQL
+* **Database Used**:      My SQL
 
-* Design Interface:    Bootstrap JavaScript, HTML
+* **Design Interface**:    Bootstrap JavaScript, HTML
 
-* Browser:                  Opera Mozilla Google Chrome IE8,
+* **Browser**:                  Opera Mozilla Google Chrome IE8,
 
-* Software:                 WAMP/ XAMPP/ LAMP/MAMP
+* **Software**:                 WAMP/ XAMPP/ LAMP/MAMP
 
 ## **Preview**
 
-* **Game screen**
+* **Online Bus Booking system Screen**
 
 ![Game](screenshot/02.png)
 
@@ -84,11 +89,15 @@ Step 9th. Run the script http://localhost/ busbooking_ezfare
 
 ## **Future Development**
 
-* Integration with AI and ML: Implement AI-driven features like personalized recommendations, dynamic pricing, and predictive maintenance alerts for buses.
-* Expansion of Payment Options: Introduce diverse payment methods, including cryptocurrency and mobile wallets, to cater to global users.
-* Enhanced User Experience: Focus on mobile-first design, with a seamless, intuitive interface and real-time booking updates.
-* Sustainability Features: Provide options for carbon offset contributions and highlight eco-friendly travel choices.
-* Multi-Modal Transport Integration: Incorporate booking options for other transport modes (e.g., trains, taxis) within the same platform for end-to-end travel planning.
+1. **Integration with AI and ML**: Implement AI-driven features like personalized recommendations, dynamic pricing, and predictive maintenance alerts for buses.
+
+2. **Expansion of Payment Options**: Introduce diverse payment methods, including cryptocurrency and mobile wallets, to cater to global users.
+
+3. **Enhanced User Experience**: Focus on mobile-first design, with a seamless, intuitive interface and real-time booking updates.
+
+4. **Sustainability Features**: Provide options for carbon offset contributions and highlight eco-friendly travel choices.
+
+5. **Multi-Modal Transport Integration**: Incorporate booking options for other transport modes (e.g., trains, taxis) within the same platform for end-to-end travel planning.
 
 
 ## **Questions**
