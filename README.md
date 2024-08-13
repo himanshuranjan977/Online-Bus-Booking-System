@@ -1,4 +1,4 @@
-# Basic Race Car Game with Python
+# Busbooking_ezfare
 
 ## **Table of Contents**
 
@@ -21,19 +21,27 @@ Using Pygame I created a 2D basic race car game, where the user needs to avoid c
 
 Install Python https://www.python.org/downloads/ (only for users that do not have it yet)
 
-#### Install Pygame
 
-Open the console by typing Command Prompt, then insert: 
+
+#### How to setup this project
 ```
-pip install pygame
+Step 1st. Download xampp
 ```
-To check the details of installation and version:
+Step 2nd. Text editor notepad++ or Sublime
 ```
-pip show pygame
+Step 3rd. Download the zip file/ Download winrar
 ```
-#### To start the game run in the console
+Step 4th. Extract the file and copy “busbooking_ezfare” folder
 ```
-python main.py  
+Step 5th. Paste inside root directory/ where you install xampp local disk C: drive D: drive E: paste: for xampp/htdocs,
+```
+Step 6th. Open PHPMyAdmin http://localhost/phpmyadmin
+```
+Step 7th. Create database name busbooking_ezfare
+```
+Step 8th. Import busbooking_ezfare.sql file given inside the zip package in SQL file folder
+```
+Step 9th. Run the script http://localhost/ busbooking_ezfare 
 ```
 
 #### To start playing:
@@ -45,9 +53,15 @@ python main.py
 
 ## **Technologies Used**
 
-* Python
-* Pygame
+* Language Used:      PHP
 
+* Database Used:      My SQL
+
+* Design Interface:    Bootstrap JavaScript, HTML
+
+* Browser:                  Opera Mozilla Google Chrome IE8,
+
+* Software:                 WAMP/ XAMPP/ LAMP/MAMP
 
 ## **Preview**
 
