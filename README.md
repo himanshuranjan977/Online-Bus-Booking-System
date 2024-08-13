@@ -2,7 +2,7 @@
 
 ## **Table of Contents**
 - [**Description**](#description)
-- [**How to setup this project**](#How-to-setup-this-project).
+- [**How to setup this project**](#how-to-setup-this-project)
 - [**Technologies Used**](#technologies-used)
 - [**Usage**](#usage)
 - [**Preview**](#preview)
