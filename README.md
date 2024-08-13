@@ -1,4 +1,4 @@
-# Busbooking_ezfare
+# Online Bus Booking System
 
 ## **Table of Contents**
 
@@ -93,7 +93,7 @@ Step 9th. Run the script http://localhost/ busbooking_ezfare
 
 * **Final results**
 
-![Game](Screenshoots/Adminlogin.png.png)
+![Game](Screenshoots/Adminlogin.png)
 
 ## **Future Development**
 
