@@ -84,7 +84,7 @@ Step 9th. Run the script http://localhost/ busbooking_ezfare
 ![Game](Screenshoots/Signup.png)
 ![Game](Screenshoots/Login.png)
 ![Game](Screenshoots/Userprofile.png)
-![Game](Screenshoots/About.png)
+![Game](Screenshoots/booking.png)
 ![Game](Screenshoots/HelpCenter.png)
 ![Game](Screenshoots/contactus.png)
 
