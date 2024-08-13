@@ -6,7 +6,6 @@
 - [**How to setup this project**](#How-to-setup-this-project).
 - [**Technologies Used**](#technologies-used)
 - [**Usage**](#usage)
-
 - [**Preview**](#preview)
 - [**Deployed link**](#deployed-link)
 - [**Future Development**](#future-development)
