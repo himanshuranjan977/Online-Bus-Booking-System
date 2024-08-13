@@ -100,6 +100,9 @@ Step 9th. Run the script http://localhost/ busbooking_ezfare
 
 ![Game](Screenshoots/Adminlogin.png)
 
+## **Deployed link**
+
+A deployed link is the [live** <a href="https://himanshuranjan977.github.io/Online-Bus-Booking-System/" target="_blank">here</a>]  where your project is hosted and accessible to users, allowing them to interact with your application in a real environment.
 
 ## **Future Development**
 
@@ -117,4 +120,4 @@ Step 9th. Run the script http://localhost/ busbooking_ezfare
 ## **Questions**
 
 * Contact me on my GitHub profile: [Himanshu's GitHub](https://github.com/himanshuranjan977)
-- [**The site is live** <a href="https://himanshuranjan977.github.io/Car-Race/" target="_blank">here</a>]  
+  
