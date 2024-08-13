@@ -4,8 +4,9 @@
 
 - [**Description**](#description)
 - [**How to setup this project**](#How-to-setup-this-project).
-- [**Usage**](#usage)
 - [**Technologies Used**](#technologies-used)
+- [**Usage**](#usage)
+
 - [**Preview**](#preview)
 - [**Deployed link**](#deployed-link)
 - [**Future Development**](#future-development)
@@ -22,18 +23,6 @@
 4. **Multiple Payment Options**: Pay securely using various methods, including cards, mobile wallets, and online banking.
 
 5. **Profile Management and Support**: Create profiles to manage bookings, view history, and access customer support features like chatbots and FAQs.
-## **Usage**
-
-1. **Convenient Booking**: Users can book bus tickets from anywhere, anytime, without the need to visit a physical ticket counter.
-
-2. **Real-Time Seat Availability**: Provides real-time information on seat availability, allowing users to choose their preferred seats.
-
-3. **Secure Payment Options**: Offers multiple secure payment methods, making transactions safe and easy for users.
-
-4. **Trip Management**: Users can easily manage their bookings, including options to modify, cancel, or reschedule trips.
-
-5. **Access to Reviews and Ratings**: Provides access to user reviews and ratings of bus operators, helping customers make informed decisions.
-
 
 
 ## **How to setup this project**
@@ -64,6 +53,8 @@ Step 8th. Import busbooking_ezfare.sql file given inside the zip package in SQL 
 ```
 Step 9th. Run the script http://localhost/ busbooking_ezfare 
 ```
+
+
 ## **Technologies Used**
 
 * **Language Used**:      PHP
@@ -75,6 +66,20 @@ Step 9th. Run the script http://localhost/ busbooking_ezfare
 * **Browser**:                  Opera Mozilla Google Chrome IE8,
 
 * **Software**:                 WAMP/ XAMPP/ LAMP/MAMP
+## **Usage**
+
+1. **Convenient Booking**: Users can book bus tickets from anywhere, anytime, without the need to visit a physical ticket counter.
+
+2. **Real-Time Seat Availability**: Provides real-time information on seat availability, allowing users to choose their preferred seats.
+
+3. **Secure Payment Options**: Offers multiple secure payment methods, making transactions safe and easy for users.
+
+4. **Trip Management**: Users can easily manage their bookings, including options to modify, cancel, or reschedule trips.
+
+5. **Access to Reviews and Ratings**: Provides access to user reviews and ratings of bus operators, helping customers make informed decisions.
+
+
+
 
 ## **Preview**
 
