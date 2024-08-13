@@ -10,7 +10,7 @@
 - [**Deployed link**](#deployed-link)
 - [**Future Development**](#future-development)
 - [**Questions**](#questions)
-- [The site is live <a href="https://himanshuranjan977.github.io/Car-Race/" target="_blank">here</a>]
+
 ## **Description**
 
 1. **User-Friendly Search and Filters**: Easily search and compare buses by origin, destination, date, and preferences like amenities and price.
@@ -95,6 +95,7 @@ Step 9th. Run the script http://localhost/ busbooking_ezfare
 
 ![Game](Screenshoots/Adminlogin.png)
 
+
 ## **Future Development**
 
 1. **Integration with AI and ML**: Implement AI-driven features like personalized recommendations, dynamic pricing, and predictive maintenance alerts for buses.
@@ -111,3 +112,4 @@ Step 9th. Run the script http://localhost/ busbooking_ezfare
 ## **Questions**
 
 * Contact me on my GitHub profile: [Himanshu's GitHub](https://github.com/himanshuranjan977)
+- [**The site is live** <a href="https://himanshuranjan977.github.io/Car-Race/" target="_blank">here</a>]  
