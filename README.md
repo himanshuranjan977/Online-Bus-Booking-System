@@ -93,7 +93,7 @@ Step 9th. Run the script http://localhost/ busbooking_ezfare
 
 * **Final results**
 
-![Game](screenshot/03.png)
+![Game](Screenshoots/Adminlogin.png.png)
 
 ## **Future Development**
 
