@@ -79,8 +79,15 @@ Step 9th. Run the script http://localhost/ busbooking_ezfare
 ## **Preview**
 
 * **Online Bus Booking system Screen**
-
+![Game](Screenshoots/HomePage.png)
 ![Game](Screenshoots/About.png)
+![Game](Screenshoots/Signup.png)
+![Game](Screenshoots/Login.png)
+![Game](Screenshoots/Userprofile.png)
+![Game](Screenshoots/About.png)
+![Game](Screenshoots/HelpCenter.png)
+![Game](Screenshoots/contactus.png)
+
 
 
 
