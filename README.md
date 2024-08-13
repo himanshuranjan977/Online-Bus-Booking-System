@@ -1,7 +1,6 @@
 # Online Bus Booking System
 
 ## **Table of Contents**
-
 - [**Description**](#description)
 - [**How to setup this project**](#How-to-setup-this-project).
 - [**Technologies Used**](#technologies-used)
@@ -10,6 +9,7 @@
 - [**Deployed link**](#deployed-link)
 - [**Future Development**](#future-development)
 - [**Questions**](#questions)
+
 
 ## **Description**
 
